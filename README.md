@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AleksDym, 26 y.o 
 - 🌱 I’m a Computer Science student at HAW Hamburg
-- 👀 I am currently working as a QA Working Student but want to switch to a developer role
-- 💞️ Here you can find projects that I worked on during my studies
+- 👀 I am currently working as a QA Working Student but want to switch to a developer role. 
+      Here you can find projects that I worked on during my studies
 - 📫 How to reach me: here is my linkedIn profile https://www.linkedin.com/in/aleksandra-dymchishina-205175176/
 
 <!---
